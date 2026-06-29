@@ -1,0 +1,80 @@
+[
+  {
+    "Id": 100,
+    "Name": "iScala 2.2 SR2",
+    "OrigName": "iScala 2.2 Service Release 2 HotFix 4850",
+    "IsDefault": 0
+  },
+  {
+    "Id": 200,
+    "Name": "iScala 2.3",
+    "OrigName": "iScala 2.3 HotFix 6762",
+    "IsDefault": 0
+  },
+  {
+    "Id": 300,
+    "Name": "iScala 2.3 SR1",
+    "OrigName": "iScala 2.3 Service Release 1 HotFix 9700",
+    "IsDefault": 0
+  },
+  {
+    "Id": 400,
+    "Name": "iScala 2.3 SR2",
+    "OrigName": "iScala 2.3 Service Release 2 HotFix 12572",
+    "IsDefault": 0
+  },
+  {
+    "Id": 500,
+    "Name": "iScala 2.3 SR3",
+    "OrigName": "iScala 2.3 Service Release 3 HotFix 14948",
+    "IsDefault": 0
+  },
+  {
+    "Id": 600,
+    "Name": "iScala 3.0.3",
+    "OrigName": "iScala3.0.3.4145",
+    "IsDefault": 0
+  },
+  {
+    "Id": 700,
+    "Name": "iScala 3.0.4",
+    "OrigName": "iScala3.0.4.5205",
+    "IsDefault": 0
+  },
+  {
+    "Id": 800,
+    "Name": "iScala 3.1",
+    "OrigName": "iScala3.1.0.1011",
+    "IsDefault": 0
+  },
+  {
+    "Id": 900,
+    "Name": "iScala 3.2",
+    "OrigName": "iScala3.2.0.0671",
+    "IsDefault": 0
+  },
+  {
+    "Id": 1000,
+    "Name": "iScala 3.3",
+    "OrigName": "iScala3.3.0.0419",
+    "IsDefault": 0
+  },
+  {
+    "Id": 1100,
+    "Name": "iScala 3.4",
+    "OrigName": "iScala3.4.0.0428",
+    "IsDefault": 0
+  },
+  {
+    "Id": 1200,
+    "Name": "iScala 3.5",
+    "OrigName": "iScala3.5.0.0451",
+    "IsDefault": 0
+  },
+  {
+    "Id": 1300,
+    "Name": "iScala 4.3 2022.1 (U3)",
+    "OrigName": "iScala4.3.0 2022.1 Update 3",
+    "IsDefault": 1
+  }
+]
